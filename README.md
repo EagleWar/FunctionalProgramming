@@ -10,7 +10,7 @@ Finally, SparkStreaming is our consummer and check if there is a problem with dr
 
 To run this project, you have to lauch sbt in Produce folder and Consummer folder.
 
-To have Analysis, run sbt as well in Analysis folder.
+To have Analytics, run sbt as well in Analysis folder.
 
 And to have alert monitoring, run the nodejs file in folder Consummer.
 
