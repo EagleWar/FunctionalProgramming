@@ -1,5 +1,0 @@
-compile
-run
-var l = 5
-compile;
-sbt compile
